@@ -1,0 +1,95 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 11,
+  "data": [
+    {
+      "id": "001",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": true
+    },
+    {
+      "id": "002",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "003",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "004",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": true
+    },
+    {
+      "id": "005",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": true
+    },
+    {
+      "id": "006",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "007",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "008",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "009",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "010",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    },
+    {
+      "id": "011",
+      "username": "zhangsan",
+      "fileid": "111111",
+      "money": 0,
+      "time": "zhangsan@qq.com",
+      "isVIP": false
+    }
+  ]
+}

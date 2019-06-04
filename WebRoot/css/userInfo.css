@@ -1,0 +1,94 @@
+
+
+.btn1 {
+	padding: 6 px 12px;
+	height: 50px;
+	width: 100px;
+	font-size: 14px;
+	border-radius: 5px;
+}
+.btn2 {
+	padding: 6 px 12px;
+	height: 50px;
+	width: 100px;
+	font-size: 16px;
+	border-radius: 5px;
+	margin-left: 25px;
+}
+.btn-warning {
+    color: #fff;
+    background-color: #42b560;
+    border-color: #63d071;
+}
+.btn3 {
+    padding: 6 px 12px;
+    height: 40px;
+    width: 90px;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+.top {
+	margin-top: 2%;
+}
+
+.button01 {
+	width: 164px;
+	height: 50px;
+	border-radius: 8px;
+	background-color: darkorange;
+}
+
+.button02 {
+	background-color: #666666;
+	border: none;
+}
+
+.font01 {
+	font-family: 幼圆;
+	color: white;
+}
+
+.font02 {
+	font-family: 微软雅黑;
+	font-size: large;
+	color: whitesmoke;
+	margin-left: 10px;
+}
+
+.font03 {
+	font-family: 微软雅黑;
+	font-size: larger;
+	color: whitesmoke;
+}
+
+.font04{
+	font-family: 微软雅黑;
+	font-size: 45px;
+	color:red;
+	font-style: oblique;
+}
+
+.input01{
+	height: 35px;
+	width:45px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.input02{
+	height: 35px;
+	weight:35px;
+	background-color: #f9f2bf;
+	border-radius: 4px;
+}
+
+
+
+.list {
+	margin-left: 12px;
+	margin-top: 6px;
+	align-content: center;
+	padding-bottom: 8px;
+	padding-top: 8px;
+}

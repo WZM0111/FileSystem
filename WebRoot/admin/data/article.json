@@ -1,0 +1,25 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 2,
+  "data": [
+    {
+      "id": "001",
+      "title": "计算机操作系统（第四版） 课后习题",
+      "filetype": "考研",
+      "readSize": 288,
+      "publisher": "张三",
+     
+      "status": true
+    },
+    {
+      "id": "002",
+      "title": "高等数学（第二版） 课后习题",
+      "filetype": "高数",
+      "readSize": 188,
+      "publisher": "刘备",
+    
+      "status": false
+    }
+  ]
+}
